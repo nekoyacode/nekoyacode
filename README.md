@@ -1,16 +1,15 @@
-## Hi there 👋
+### Welcome to nekoyanagi world 💖
 
-<!--
-**nekoyacode/nekoyacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐈 About me!
+16歳　男子高校生です  
+9歳の頃からプログラミングをしています✌️  
+音楽を聴くことが大好きです 🎧
 
-Here are some ideas to get you started:
+## 🧑‍💻 Skills 
+HTML：■■■■■■■□□□ （7年）  
+CSS：■■■■■□□□□□ （5年）  
+JavaScript：■■□□□□□□□□ （2年）  
+Figma (UI / UX）：■■□□□□□□□□ （2年）  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Works
+・2024 - **🔥120万PV超**「読めないユーザーネームメーカー」コーディング・デザイン設計 (https://username-maker.com)
