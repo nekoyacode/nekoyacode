@@ -7,4 +7,3 @@
 
 ## 💼 Works
 ・2024 - 2025 **🔥131万PV超**「読めないユーザーネームメーカー」コーディング・デザイン（サイト閉鎖済み）
-アーカイブ：https://web.archive.org/web/20250521115338/https://username-maker.com
